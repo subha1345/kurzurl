@@ -8,7 +8,7 @@ namespace kurzurl_api.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Extreme Heat"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Extreme Heat", "Scorching Heat"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
