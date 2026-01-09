@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jODnwiyUzbs=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\git_backup\\new_kurzurl\\shorturl_api\\kurzurl_api\\kurzurl_api\\kurzurl_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Jit\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
